@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Illiers-l'Eveque",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-22T07:45:47.394Z",
+      "notes": "",
+      "position": {
+        "lat": "48.83579746243093",
+        "lng": "1.2524414062500002"
+      },
+      "id": 73930390
+    },
+    {
+      "cityName": "Bygland",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2023-12-22T11:55:14.505Z",
+      "notes": "",
+      "position": {
+        "lat": "58.7682001592396",
+        "lng": "7.954101562500001"
+      },
+      "id": 73930391
+    },
+    {
+      "cityName": "Brezina",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-12-28T05:29:03.656Z",
+      "notes": "",
+      "position": {
+        "lat": "31.914867503276223",
+        "lng": "2.1313476562500004"
+      },
+      "id": 73930392
+    },
+    {
+      "cityName": "Sebaine",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-12-28T05:29:10.139Z",
+      "notes": "",
+      "position": {
+        "lat": "35.42486791930558",
+        "lng": "1.56005859375"
+      },
+      "id": 73930393
+    },
+    {
+      "cityName": "Douar el Ma",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-12-28T05:31:28.477Z",
+      "notes": "",
+      "position": {
+        "lat": "32.1570124860701",
+        "lng": "7.141113281250001"
+      },
+      "id": 73930394
+    },
+    {
+      "cityName": "Vyksa",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-12-28T05:31:47.089Z",
+      "notes": "",
+      "position": {
+        "lat": "55.07836723201515",
+        "lng": "42.45117187500001"
+      },
+      "id": 73930396
+    }
+  ]
+}
