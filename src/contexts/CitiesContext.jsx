@@ -4,11 +4,10 @@ import {
   useContext,
   useEffect,
   useReducer,
-  useState,
 } from "react";
 
 const CitiesContext = createContext();
-const BASE_URL = "http://localhost:9000";
+const BASE_URL = "https://cities-data-1b9i.onrender.com";
 
 const initialState = {
   cities: [],

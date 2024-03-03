@@ -61,16 +61,16 @@
       "id": 73930394
     },
     {
-      "cityName": "Vyksa",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2023-12-28T05:31:47.089Z",
+      "cityName": "Albarracin",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-03T06:48:46.003Z",
       "notes": "",
       "position": {
-        "lat": "55.07836723201515",
-        "lng": "42.45117187500001"
+        "lat": "40.38482267450083",
+        "lng": "-1.7578125000000002"
       },
-      "id": 73930396
+      "id": 73930395
     }
   ]
 }
